@@ -3,7 +3,6 @@
 </h1>
 
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213962233-6b6fa3ae-7e45-4f14-b89f-0f61d6fd1a5b.gif" height="300" />
 </p>
@@ -48,7 +47,9 @@ DevOps: [Docker, Firebase, GitHub Actions]
 
 > 🌍 View my GitHub contribution activity in 3D:
 **[Live Globe](https://github.com/denvercoder1/github-readme-stats#github-profile-trophy)**
-
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/snake.gif?raw=true" width="100%" />
+</p>
 <p align="center">
   <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/snake.gif?raw=true" width="100%" />
 </p>
