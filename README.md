@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=750&lines=Hey+there+👋+I'm+Soham+Tare;AI+Researcher+%7C+Dev+%7C+Visionary+Builder;Turning+💡+into+🤖+and+🚀" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/7009soham/7009soham/main/soham_typing_banner.png" alt="Soham Typing Banner" />
 </h1>
+
 
 
 
