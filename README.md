@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Soham 👨‍💻</h1>
 
-<!--
-**7009soham/7009soham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=⚡+AI+Researcher;🔥+Gen-Z+Builder;💡+ML+Enthusiast;📱+App+Crafter+with+Style" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🧠 AI + ML researcher | 🚀 Exploring LLMs & Agentic AI
+- 🛠️ Projects with Firebase, Spring Boot, Android, and DL models
+- 🏫 MCA @ KJ SIM, Mumbai | Research Associate under Prof. Krantee & XYZ
+
+---
+
+### 🧩 Tech Stack
+
+```yaml
+Languages: [Java, Python, Kotlin, JavaScript]
+Frameworks: [Spring Boot, Hibernate, React Native, Flask]
+AI/ML: [TensorFlow, scikit-learn, PyTorch, LangChain]
+DevOps: [Docker, Firebase, GitHub Actions]
