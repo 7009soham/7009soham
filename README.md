@@ -22,3 +22,36 @@ Languages: [Java, Python, Kotlin, JavaScript]
 Frameworks: [Spring Boot, Hibernate, Flask, React Native]
 ML/AI: [scikit-learn, TensorFlow, PyTorch, LangChain, OpenAI]
 DevOps: [Docker, Firebase, GitHub Actions]
+
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=7009soham&theme=neon-palenight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7009soham&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🪐 Cool Stuff
+
+- 🧠 **My AI Chatbot** — AI Replier built using OpenAI + Spring Boot  
+- 🌈 **CampusFix App** — Real-time student issue resolver w/ gamified UI  
+- 🌐 **Portfolio Website** — Built with React + GSAP + ✨
+
+---
+
+### 🌌 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Website-visit-29d?style=for-the-badge&logo=chrome" /></a>
+</p>
+
+---
+
+> ⚡ "Build cool things. Make people smile. Break the matrix."  
+> 🕒 Last updated on **May 17, 2025**
