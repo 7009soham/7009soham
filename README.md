@@ -89,7 +89,7 @@ DevOps: [Docker, Firebase, GitHub Actions]
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Website-visit-29d?style=for-the-badge&logo=chrome" /></a>
+  <a href="https://yourportfolio.com"><img src="sohamhatescoding.live" /></a>
 </p>
 
 ---
