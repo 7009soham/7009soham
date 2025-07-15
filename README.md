@@ -89,7 +89,7 @@ DevOps: [Docker, Firebase, GitHub Actions]
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://yourportfolio.com"><img src="http://sohamhatescoding.live/" /></a>
+  <a href="https://sohamhatescoding.live"><img src="https://media.licdn.com/dms/image/v2/D4D35AQF7pduyr8JvUw/profile-framedphoto-shrink_400_400/B4DZfv2TN8HkAg-/0/1752075679063?e=1753178400&v=beta&t=gAKCA6ydzzT1WR75CTqq0mBamkOch8cUPz5ksJTj-vg" /></a>
 </p>
 
 ---
